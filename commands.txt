@@ -1,1 +1,9 @@
 This is the line used to learn Git.. and track changes to a file 
+
+
+git init
+git add
+git commit
+git restore
+git status
+
